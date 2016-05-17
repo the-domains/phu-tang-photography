@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T00:53:48.447Z'
-dateModified: '2016-05-10T07:54:41.435Z'
+datePublished: '2016-05-17T01:53:43.157Z'
+dateModified: '2016-05-17T01:53:41.915Z'
 title: Food Photography
 author: []
+sourcePath: _posts/2016-05-14-food-photography.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-food-photography.md
 url: food-photography/index.html
 _type: Article
 
